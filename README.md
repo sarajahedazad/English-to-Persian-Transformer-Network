@@ -1,4 +1,4 @@
-# English to Persian Transformer Network
+# English to Persian(Farsi) Transformer Network
 
 I used the following tutorials for my projetc:
 
@@ -7,3 +7,6 @@ I used the following tutorials for my projetc:
 [Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
 
 ["Attention is All You Need": Implementing in pytorch](https://colab.research.google.com/github/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb#scrollTo=f4-9p7VwnUKA)
+
+## Dataset
+The dataset I used is licensed, and I have no right to share it publicaly. 
